@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm the second year M.S. student at school of Electronic and Computer Engineering, Peking University, advised by Prof. Yue-sheng Zhu. Now, I'm sincerely looking for a **Phd** opportunity and a chance of **Research Intern**.   
+I'm the second year M.S. student at school of Electronic and Computer Engineering, Peking University, advised by Prof. Yu-sheng Zhu. Now, I'm sincerely looking for a **Phd** opportunity and a chance of **Research Intern**.   Contact: 15521443439 (WeChat && Phone)
 
 **Research Interests**
 
