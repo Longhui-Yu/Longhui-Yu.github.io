@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yu Longhui's page"
+locale                   : "Shenzhen-CN"
+title                    : "Long-hui Yu (虞龙辉)"
 title_separator          : "-"
-name                     : &name "Yu Longhui"
-description              : &description "Master in Peking University"
+name                     : &name "Long-hui Yu"
+description              : &description "The Second year M.S. student @CiS, Peking University."
 url                      : https://yulonghui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu Longhui"
+  name             : "Long-hui Yu"
   avatar           : "profile.png"
-  bio              : "I'm in my second year of graduated study at Peking University, My research includes Semi-Supervised Learning, Open world Detection, Incremental Learning."
+  bio              : "The Second year M.S. student @CiS, Peking University, My research interest includes Semi-Supervised Learning, Open world Detection, Incremental Learning."
   location         : "Shen Zhen, China"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yulonghui@stu.pku.edu.cn"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -108,7 +108,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -174,17 +173,14 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  cv:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
+  projects:
+    output: false
     permalink: /:collection/:path/
 
 
@@ -208,15 +204,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -226,23 +213,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
@@ -300,6 +270,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
