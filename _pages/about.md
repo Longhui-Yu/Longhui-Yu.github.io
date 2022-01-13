@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm the second year M.S. student at school of Electronic and Computer Engineering, Peking University, advised by Prof. Yu-sheng Zhu.
+I'm the second year M.S. student at school of Electronic and Computer Engineering, Peking University, advised by Prof. Yue-sheng Zhu. Now, I'm sincerely looking for a **Phd** opportunity and a chance of **Research Intern**.   
 
 **Research Interests**
 
@@ -20,10 +20,20 @@ I'm the second year M.S. student at school of Electronic and Computer Engineerin
 
 1. **Longhui Yu**, Yifan Zhang, Lanqing Hong, Fei Chen, Zhengguo Li, Jiashi Feng. Dual-Curriculum Teacher for Domain-Inconsistent Object Detection in Autonomous Driving. Submitted to CVPR 2022.
 
-2. **Longhui Yu**, Zhengyu Weng, Yuqing wang, Yuesheng Zhu, Multi-Teacher Knowledge Distillation for Incremental Implicitly-Refined Classification. Submitted to ICME 2022.
+2. **Longhui Yu**, Zhengyu Weng, Yuqing Wang, Yuesheng Zhu, Multi-Teacher Knowledge Distillation for Incremental Implicitly-Refined Classification. Submitted to ICME 2022.
 
-3. One paper about incremental learning Submitted to ICLR 2022 (Not the first author).
+3. Memory Replay with Data Compression for Continual Learning. Submitted to ICLR 2022 (Not the first author).
 
+
+## Education experience
+
+* September 2016 - June 2020: Undergraduate student
+  * University: South China University of Technology
+  * GPA: 3.80/4.00
+
+* September 2020 - June 2023 (expected): Graduate student
+  * University: Peking University
+  * Reseach interest:  Semi-Supervised Learning, Incremental Learning, Long-tail Learning, Open World Detection
 
 ## Work experience
 
@@ -36,10 +46,6 @@ I'm the second year M.S. student at school of Electronic and Computer Engineerin
   * Peking University, Shenzhen, China.
   * Duties included: 1. Delve into incremental learning. 2. research for Vision Transformer.
 
-
-
-
-  
 ## Selected Awards
 
 * The first prize of The national college students' smart car competition, 2019.
