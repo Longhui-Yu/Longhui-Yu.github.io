@@ -25,7 +25,7 @@ I'm a second-year M.S. student at the School of Electronics and Computer Enginee
 3. Memory Replay with Data Compression for Continual Learning. Submitted to ICLR 2022 (Not the first author).
 
 
-## Education experience
+## Education Experience
 
 * September 2016 - June 2020: Undergraduate student
   * University: South China University of Technology
@@ -35,7 +35,7 @@ I'm a second-year M.S. student at the School of Electronics and Computer Enginee
   * University: Peking University
   * Research interest:  Semi-Supervised Learning, Incremental Learning, Long-tail Learning, Open World Detection
 
-## Work experience
+## Work Experience
 
 * June 2021 - December 2021: Research Intern
   * Noah@Huawei, Shenzhen, China.
