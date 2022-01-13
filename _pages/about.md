@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm the second year M.S. student at school of Electronic and Computer Engineering, Peking University, advised by Prof. Yu-sheng Zhu. Now, I'm sincerely looking for a **Phd** opportunity and a chance of **Research Intern**.   Contact: 15521443439 (WeChat && Phone)
+I'm a second-year M.S. student at the School of Electronics and Computer Engineering, Peking University, advised by Prof. Yu-sheng Zhu. Now, I'm sincerely looking for a **Ph.D.** opportunity and a chance of **Research Intern**.   Contact: 15521443439 (WeChat && Phone)
 
 **Research Interests**
 
-* Computer Vision: Open World Detection, Autonomous Driving, Vistion Transformer
+* Computer Vision: Open World Detection, Autonomous Driving, Vision Transformer
 * Machine Learning: Semi-Supervised Learning, Incremental Learning, Long-tail Learning, Out of Distribution Generalization
 
 ## Selected Publications & Preprints
@@ -33,13 +33,13 @@ I'm the second year M.S. student at school of Electronic and Computer Engineerin
 
 * September 2020 - June 2023 (expected): Graduate student
   * University: Peking University
-  * Reseach interest:  Semi-Supervised Learning, Incremental Learning, Long-tail Learning, Open World Detection
+  * Research interest:  Semi-Supervised Learning, Incremental Learning, Long-tail Learning, Open World Detection
 
 ## Work experience
 
 * June 2021 - December 2021: Research Intern
   * Noah@Huawei, Shenzhen, China.
-  * Duties included: 1. Design more powerful Semi-supervised object detection method. 2. Design more simple and powful incremental learning method to resist catastrophic forgetting.
+  * Duties included: 1. Design a more powerful Semi-supervised object detection method. 2. Design a more simple and powerful incremental learning method to resist catastrophic forgetting.
   * Advisor: Lanqing Hong
 
 * September 2020 - Now: Research Assistant
