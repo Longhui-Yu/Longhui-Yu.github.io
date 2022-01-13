@@ -20,7 +20,7 @@ I'm the second year M.S. student at school of Electronic and Computer Engineerin
 
 1. **Longhui Yu**, Yifan Zhang, Lanqing Hong, Fei Chen, Zhengguo Li, Jiashi Feng. Dual-Curriculum Teacher for Domain-Inconsistent Object Detection in Autonomous Driving. Submitted to CVPR 2022.
 
-2. **Longhui Yu**, Zhengyu Weng, Yuqing Wang, Yuesheng Zhu, Multi-Teacher Knowledge Distillation for Incremental Implicitly-Refined Classification. Submitted to ICME 2022.
+2. **Longhui Yu**, Zhengyu Weng, Yuqing Wang, Yuesheng Zhu. Multi-Teacher Knowledge Distillation for Incremental Implicitly-Refined Classification. Submitted to ICME 2022.
 
 3. Memory Replay with Data Compression for Continual Learning. Submitted to ICLR 2022 (Not the first author).
 
