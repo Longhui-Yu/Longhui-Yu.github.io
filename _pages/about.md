@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Third-year M.S. student at the School of Electronics and Computer Engineering, Peking University, advised by Prof. Yue-sheng Zhu. Now, I'm sincerely looking for a **Ph.D.** opportunity and a chance of **Research Intern**.   Contact: 15521443439 (WeChat && Phone). Here is my [CV](https://github.com/Longhui-Yu/Longhui-Yu.github.io/upload/master/_pages/CV.pdf).
+I'm a Third-year M.S. student at the School of Electronics and Computer Engineering, Peking University, advised by Prof. Yue-sheng Zhu. Now, I'm sincerely looking for a **Ph.D.** opportunity and a chance of **Research Intern**.   Contact: 15521443439 (WeChat && Phone). Here is my [CV](./CV.pdf).
 
 **Research Interests**
 
